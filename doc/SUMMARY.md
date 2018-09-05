@@ -5,3 +5,4 @@
    * [pip](002-pip.md)
    * [Ipython](003-ipython.md)
    * [jupyter](004-jupyter.md)
+   * [debug](005-debug.md)
