@@ -8,3 +8,4 @@
    * [debug](ch0/005-debug.md)
   - 解析
    * [ConfigParse](ch1/001.md)
+   * [logging](ch1/002.md)

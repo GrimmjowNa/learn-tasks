@@ -1,4 +1,4 @@
-## DEBUG
+### DEBUG
 
 ###### 标准库pbd
 
@@ -6,7 +6,7 @@
 python -m pdb test_pdb.py
 ```
 
-![pdb命令](images/005-01.jpg)
+![pdb命令](../images/005-01.jpg)
 
 ```python
 #/usr/bin/python
