@@ -9,3 +9,5 @@
   - 解析
    * [ConfigParse](ch1/001.md)
    * [logging](ch1/002.md)
+  - 文本处理
+   * [字符串](ch2/001.md)
