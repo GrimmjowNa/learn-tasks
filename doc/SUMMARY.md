@@ -1,5 +1,5 @@
 # Summary
-
+  - [checklist](ch0/000.md)
   - 辅助工具
    * [Python 内置工具](ch0/001.md)
    * [pip](ch0/002-pip.md)
